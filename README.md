@@ -1,5 +1,5 @@
 # HD2_Hide_FreLiberam_Cape
 
-Hides the "Fre Liberam" cape.
+A mod for Helldivers 2 that hides the "Fre Liberam" cape.
 
 ![](./image.png)
